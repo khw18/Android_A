@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\code\\umc\\Android_A\\week2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\code\\umc\\udemy_android_flo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
+                {
+                    "source": "C:\\code\\umc\\udemy_android_flo\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "7,12,10,11,16,2,3,4,15,5,6,14,8",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "293,481,381,429,627,57,105,153,579,201,247,530,336",
+                        "endColumns": "41,45,46,50,44,46,46,46,46,44,44,47,41",
+                        "endOffsets": "330,522,423,475,667,99,147,195,621,241,287,573,373"
+                    },
+                    "to": {
+                        "startLines": "495,508,509,510,554,587,588,589,596,601,602,605,606",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "23896,24828,24874,24921,27941,30078,30125,30172,30630,30963,31008,31174,31222",
+                        "endColumns": "41,45,46,50,44,46,46,46,46,44,44,47,41",
+                        "endOffsets": "23933,24869,24916,24967,27981,30120,30167,30214,30672,31003,31048,31217,31259"
+                    }
+                },
                 {
                     "source": "C:\\Users\\hyeonu\\.gradle\\caches\\transforms-3\\19a82ed2d89177e019ed0dfa148671fe\\transformed\\recyclerview-1.1.0\\res\\values\\values.xml",
                     "from": {
@@ -78,20 +95,20 @@
                     }
                 },
                 {
-                    "source": "C:\\code\\umc\\Android_A\\week2\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\code\\umc\\udemy_android_flo\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "7,12,10,11,16,2,3,4,15,5,6,14,8",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "293,481,381,429,627,57,105,153,579,201,247,530,336",
-                        "endColumns": "41,45,46,50,44,46,46,46,46,44,44,47,41",
-                        "endOffsets": "330,522,423,475,667,99,147,195,621,241,287,573,373"
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "40",
+                        "endOffsets": "53"
                     },
                     "to": {
-                        "startLines": "495,508,509,510,554,587,588,589,596,601,602,605,606",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "23896,24828,24874,24921,27941,30078,30125,30172,30630,30963,31008,31174,31222",
-                        "endColumns": "41,45,46,50,44,46,46,46,46,44,44,47,41",
-                        "endOffsets": "23933,24869,24916,24967,27981,30120,30167,30214,30672,31003,31048,31217,31259"
+                        "startLines": "1196",
+                        "startColumns": "4",
+                        "startOffsets": "69241",
+                        "endColumns": "40",
+                        "endOffsets": "69277"
                     }
                 },
                 {
@@ -166,6 +183,25 @@
                         "startOffsets": "69158",
                         "endColumns": "82",
                         "endOffsets": "69236"
+                    }
+                },
+                {
+                    "source": "C:\\code\\umc\\udemy_android_flo\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "954"
+                    },
+                    "to": {
+                        "startLines": "3930",
+                        "startColumns": "4",
+                        "startOffsets": "257747",
+                        "endLines": "3949",
+                        "endColumns": "12",
+                        "endOffsets": "258580"
                     }
                 },
                 {
@@ -274,42 +310,6 @@
                         "startOffsets": "65070",
                         "endColumns": "49",
                         "endOffsets": "65115"
-                    }
-                },
-                {
-                    "source": "C:\\code\\umc\\Android_A\\week2\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "40",
-                        "endOffsets": "53"
-                    },
-                    "to": {
-                        "startLines": "1196",
-                        "startColumns": "4",
-                        "startOffsets": "69241",
-                        "endColumns": "40",
-                        "endOffsets": "69277"
-                    }
-                },
-                {
-                    "source": "C:\\code\\umc\\Android_A\\week2\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "102",
-                        "endLines": "21",
-                        "endColumns": "12",
-                        "endOffsets": "954"
-                    },
-                    "to": {
-                        "startLines": "3930",
-                        "startColumns": "4",
-                        "startOffsets": "257747",
-                        "endLines": "3949",
-                        "endColumns": "12",
-                        "endOffsets": "258580"
                     }
                 },
                 {
